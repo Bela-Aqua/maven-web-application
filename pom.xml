@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>jumia</finalName>
+		<finalName>jumia2</finalName>
 		
 		<plugins>
 			<plugin>
