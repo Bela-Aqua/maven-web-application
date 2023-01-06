@@ -23,7 +23,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://172.31.1.19:9000/</sonar.host.url>
-		<sonar.login>891c5b1db99a07ff85fe4eb99b1cd2c6eae32942</sonar.login>
+		<sonar.login>158931c7442b1b5398d4c1268d1e5ec48f3127bd</sonar.login>
 		<!-- <sonar.password>admin123</sonar.password>  -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>jumia2</finalName>
+		<finalName>trybe</finalName>
 		
 		<plugins>
 			<plugin>
